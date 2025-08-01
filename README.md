@@ -13,6 +13,8 @@
 
 <code>Termux/Linux</code>
 
+<br><code>apt update && apt upgrade -y</br></code>
+<br><code>apt install git</br></code>
 <br><code>apt install python2</br></code>
 <br><code>pip2 install requests</br></code>
 <br><code>git clone https://github.com/hacker399/zombie.git</code></br>
